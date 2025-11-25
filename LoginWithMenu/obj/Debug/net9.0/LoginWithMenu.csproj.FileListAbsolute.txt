@@ -1,0 +1,14 @@
+C:\Users\Administrator\OneDrive\Desktop\Practice\LoginWithMenu\bin\Debug\net9.0\LoginWithMenu.exe
+C:\Users\Administrator\OneDrive\Desktop\Practice\LoginWithMenu\bin\Debug\net9.0\LoginWithMenu.deps.json
+C:\Users\Administrator\OneDrive\Desktop\Practice\LoginWithMenu\bin\Debug\net9.0\LoginWithMenu.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\Practice\LoginWithMenu\bin\Debug\net9.0\LoginWithMenu.dll
+C:\Users\Administrator\OneDrive\Desktop\Practice\LoginWithMenu\bin\Debug\net9.0\LoginWithMenu.pdb
+C:\Users\Administrator\OneDrive\Desktop\Practice\LoginWithMenu\obj\Debug\net9.0\LoginWithMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\Practice\LoginWithMenu\obj\Debug\net9.0\LoginWithMenu.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Practice\LoginWithMenu\obj\Debug\net9.0\LoginWithMenu.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\Practice\LoginWithMenu\obj\Debug\net9.0\LoginWithMenu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Practice\LoginWithMenu\obj\Debug\net9.0\LoginWithMenu.dll
+C:\Users\Administrator\OneDrive\Desktop\Practice\LoginWithMenu\obj\Debug\net9.0\refint\LoginWithMenu.dll
+C:\Users\Administrator\OneDrive\Desktop\Practice\LoginWithMenu\obj\Debug\net9.0\LoginWithMenu.pdb
+C:\Users\Administrator\OneDrive\Desktop\Practice\LoginWithMenu\obj\Debug\net9.0\LoginWithMenu.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\Practice\LoginWithMenu\obj\Debug\net9.0\ref\LoginWithMenu.dll
