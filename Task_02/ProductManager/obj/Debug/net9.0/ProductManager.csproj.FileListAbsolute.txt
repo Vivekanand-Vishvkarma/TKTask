@@ -1,0 +1,14 @@
+E:\Educational Reference\Technology Keeda\Task\Task_03\ProductManager\ProductManager\bin\Debug\net9.0\ProductManager.exe
+E:\Educational Reference\Technology Keeda\Task\Task_03\ProductManager\ProductManager\bin\Debug\net9.0\ProductManager.deps.json
+E:\Educational Reference\Technology Keeda\Task\Task_03\ProductManager\ProductManager\bin\Debug\net9.0\ProductManager.runtimeconfig.json
+E:\Educational Reference\Technology Keeda\Task\Task_03\ProductManager\ProductManager\bin\Debug\net9.0\ProductManager.dll
+E:\Educational Reference\Technology Keeda\Task\Task_03\ProductManager\ProductManager\bin\Debug\net9.0\ProductManager.pdb
+E:\Educational Reference\Technology Keeda\Task\Task_03\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Educational Reference\Technology Keeda\Task\Task_03\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.AssemblyInfoInputs.cache
+E:\Educational Reference\Technology Keeda\Task\Task_03\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.AssemblyInfo.cs
+E:\Educational Reference\Technology Keeda\Task\Task_03\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.csproj.CoreCompileInputs.cache
+E:\Educational Reference\Technology Keeda\Task\Task_03\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.dll
+E:\Educational Reference\Technology Keeda\Task\Task_03\ProductManager\ProductManager\obj\Debug\net9.0\refint\ProductManager.dll
+E:\Educational Reference\Technology Keeda\Task\Task_03\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.pdb
+E:\Educational Reference\Technology Keeda\Task\Task_03\ProductManager\ProductManager\obj\Debug\net9.0\ProductManager.genruntimeconfig.cache
+E:\Educational Reference\Technology Keeda\Task\Task_03\ProductManager\ProductManager\obj\Debug\net9.0\ref\ProductManager.dll
